@@ -10,3 +10,4 @@ for key, value in my_dict.items():
     print(key,"likes these cars:")
     for car in value:
         print("- ", car)
+    print()
